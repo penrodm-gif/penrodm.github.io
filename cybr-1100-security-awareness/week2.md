@@ -1,4 +1,4 @@
-# Week 1 – Introduction to Security Awareness
+# Week 2 – Introduction to Security Awareness
 
 **Description:**  
 
