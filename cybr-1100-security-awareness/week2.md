@@ -10,6 +10,6 @@
 
 
 **Reflection:**  
-
+My personal practices will change going forward by using better passwords and making them secure. 
 **AI Use Note:**
 explaining instructions in a clearer way
