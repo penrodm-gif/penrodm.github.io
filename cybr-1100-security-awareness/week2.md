@@ -1,7 +1,7 @@
 # Week 2 – Introduction to Security Awareness
 
-**Description:**  
-
+**Summary:**  
+There are multiple different priciples for social engineering effectiveness. Hackers use this to use different techneques to gain your trust. My cybersecurity defense does not need to be perfect ut just needs to be good.
 
 
 **Artifacts:**  
